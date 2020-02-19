@@ -1,0 +1,80 @@
+ .makedonation {
+     display: flex;
+     justify-content: center;
+ }
+
+ .input {
+     display: flex;
+     justify-content: center;
+ }
+
+
+ .text {
+     display: flex;
+     justify-content:
+         space-around;
+ }
+
+ .donationsize {
+     display: flex;
+     justify-content:
+         space-around;
+ }
+
+ h2 {
+     display: flex;
+     justify-content: center;
+ }
+
+ .time {
+     display: flex;
+     justify-content: space-around;
+ }
+
+ .payment {
+     display: flex;
+     justify-content: center;
+ }
+
+ .card {
+     display: flex;
+     justify-content: center;
+ }
+
+ .month {
+     display: flex;
+     justify-content: center;
+ }
+
+ .year {
+     display: flex;
+     justify-content: center;
+ }
+
+ .makedonation {
+     color: blue;
+ }
+
+ .text {
+     color: blue;
+ }
+
+ .freq {
+     color: blue;
+ }
+
+ .payment {
+     color: blue;
+ }
+
+ .card {
+     color: blue;
+ }
+
+ .month {
+     color: blue;
+ }
+
+ .year {
+     color: blue;
+ }
